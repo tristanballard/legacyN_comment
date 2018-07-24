@@ -15,4 +15,5 @@ precipitation.df.RDS contains annual 1900-2015 basin-wide precipitation [mm] dat
 
 References:
 K. J. Van Meter, P. Van Cappellen, N. B. Basu, Legacy nitrogen may prevent achievement of water quality goals in the Gulf of Mexico. Science (80). 360, 427–430 (2018).
+
 K. J. Van Meter, N. B. Basu, P. Van Cappellen, Two centuries of nitrogen dynamics: Legacy sources and sinks in the Mississippi and Susquehanna River Basins. Global Biogeochem. Cycles. 31, 2–23 (2017).
