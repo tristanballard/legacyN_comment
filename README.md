@@ -1,5 +1,5 @@
 # legacyN_comment
-R code and files necessary to recreate the figures from our Technical Comment (Science 2018). Contact Tristan Ballard (tballard@stanford.edu) with any questions.
+R code and files necessary to recreate the figures from our Technical Comment (Comment on “Legacy nitrogen may prevent achievement of water quality goals in the Gulf of Mexico”, Science  23 Aug 2019, Vol. 365, Issue 6455, DOI: 10.1126/science.aau8401). Contact Tristan Ballard (tballard@stanford.edu) with any questions.
 
 File descriptions:
 
